@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   Once upon a time, there is a Kindom called Rabbitopia, which is created by 
 the young rabbit king named Carrototo. Carrototo has a beautiful daughter
 named Cabbagege, and it is about the time for her to marry someone.
@@ -9,3 +10,8 @@ a wolf!
 "Oh my rabbit, am I supposed to die today? I am still a young cute rabbit, who
 is willing to eat a little cute?"
   Then the wolf...
+=======
+This is a story
+THe story begun on a rainy day. Mike wished to go to picnic with his family in a state park.
+He drove his brand new mercedes while listening to country music   
+>>>>>>> 6d31102a6e927bd739a7d1dfdeddbb1272d6ba31
